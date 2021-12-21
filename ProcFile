@@ -1,0 +1,2 @@
+web: gunicorn alemeno-swap.wsgi
+
