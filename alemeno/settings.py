@@ -29,7 +29,7 @@ DEBUG = False
 ALLOWED_HOSTS = ['https://alemeno-swap.herokuapp.com/']
 
 
-# Application definition
+# Application definitionvi
 
 INSTALLED_APPS = [
     'django.contrib.admin',
